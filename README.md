@@ -1,1 +1,3 @@
-# real-estate-app-django
+# Real Estate App Django
+
+## Required packages in requirements.txt
